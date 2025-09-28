@@ -39,7 +39,9 @@ joblib	    1.1.0
 # Project Structure
 
 app.py
+
 requirements.txt
+
 README.md
 
 app.py: The main application file that uses Streamlit to provide a user-friendly interface.
