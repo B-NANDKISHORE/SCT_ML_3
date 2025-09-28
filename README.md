@@ -16,11 +16,17 @@ Support for Multiple Image Formats: The application supports multiple image form
 
 # Tech Stack
 Technology  Version
+
 Python	    3.8
+
 Streamlit	  1.11
+
 OpenCV	    4.5.1
+
 PIL	        8.3.2
+
 scikit-learn	1.0.2
+
 joblib	    1.1.0
 
 # Project Structure
